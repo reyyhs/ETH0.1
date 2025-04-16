@@ -1,0 +1,5 @@
+eth-account
+requests
+rich
+loguru
+python-dotenv
