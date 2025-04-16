@@ -1,7 +1,7 @@
 # ETH0.1
 Config .env
 ```bash
-ETHERSCAN_API_KEY=eth-api-key (change eth api key)
+ETHERSCAN_API_KEY= (your eth api key)
 MAX_ATTEMPTS=1000 (optional)
 ```
 
