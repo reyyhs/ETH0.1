@@ -2,7 +2,7 @@
 Config .env
 ```bash
 ETHERSCAN_API_KEY= (your eth api key)
-MAX_ATTEMPTS=1000 (optional)
+MAX_ATTEMPTS=1000
 ```
 
 
